@@ -1,7 +1,7 @@
 # Learning_Path-Data_Science Certificates:
 
 
-Complete Learning path for data science (Coursera)
+Complete Learning path for data science 
 
 # 1.IBM Data Science Professional Certificate : 
 
